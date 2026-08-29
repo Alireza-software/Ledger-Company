@@ -1,0 +1,6 @@
+{
+  "name": "LEDGER - Financial Intelligence Platform for Entrepreneurs",
+  "description": "Smart financial recording, ledger management, and cashflow intelligence for startups and entrepreneurs. Founded by Shamsa Malik & Kubra Batool, incubated at NIC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
